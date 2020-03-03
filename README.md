@@ -1,5 +1,4 @@
 ### Udacity-Blog-Post
-### Table of Contents
 
 ## Installation
 
