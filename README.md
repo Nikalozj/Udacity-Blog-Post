@@ -18,7 +18,7 @@ There's just one file where I conducted my analysis and it's given in the reposi
 
 ## Results
 
-I've created a post on Medium.com about the findings. You can check it [here](https://medium.com/@nika.jinchar/what-should-you-look-for-in-a-job-as-a-developer-e3496597a386)
+I've created a post on Medium.com about the findings. You can check it [here](https://medium.com/@nika.jinchar/what-should-you-look-for-in-a-job-as-a-developer-e3496597a386).
 
 ## Licensing, Authors, Acknowledgements
 
